@@ -70,7 +70,7 @@ class Signin extends Component {
             {...Platform.select({ios: {behavior: 'padding'}, android: {}})}
             style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}
           >
-            <View styleName='vertical h-center v-end' style={{flex: 1, paddingBottom: 30}}>
+            <View styleName='vertical h-center v-center' style={{flex: 1, paddingBottom: 30}}>
               <Animated.Image
                 style={{
                   alignSelf: 'center',

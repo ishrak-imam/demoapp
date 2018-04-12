@@ -60,6 +60,6 @@ authenticating a user when a jwt token is received afte successful login it can 
 
 # Further instructions
 
-In case react-native development environment is not ready I am also including an apk file which one can install in an android device and check.
+In case react-native development environment is not ready I am also including an apk file which one can be installed in an android device and checked.
 
 Also I need to mention that using `create-react-native-app` or `expo` limits us to only use the JavaScript based solutions. As in most of the cases for a production level application using the native modules are necessary for a smooth user friendly experience. That's why I tend to use `react-native init` for initializing my project.
